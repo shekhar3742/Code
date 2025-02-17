@@ -1,3 +1,6 @@
+// output the number that number is true or false 
+
+
 #include<iostream>
 using namespace std;
 

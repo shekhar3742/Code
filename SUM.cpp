@@ -1,3 +1,5 @@
+// find the sum till n
+
 #include<iostream>
 using namespace std;
 
